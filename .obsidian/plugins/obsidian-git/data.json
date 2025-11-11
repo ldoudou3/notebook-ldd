@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}}更新了{{{date}}",
+  "commitMessage": "{{date}}：{{hostname}}更新了{{files}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
