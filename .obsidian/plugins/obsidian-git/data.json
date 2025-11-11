@@ -1,10 +1,10 @@
 {
-  "commitMessage": "{{date}}",
+  "commitMessage": "{{hostname}}更新了{{{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
-  "autoPushInterval": 0,
+  "autoPushInterval": 5,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "autoCommitOnlyStaged": false,
