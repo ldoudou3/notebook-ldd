@@ -5,6 +5,74 @@
 3. 单线程
 	1. 用单线程来处理所有的网络连接，解决了并发问题；
 4. 多进程
+	1. 又称为worker进程
+	2. 一个进程中有一个线程
+	3. 多进程共享一个共享内存和磁盘弓箭（proxy cache）
+5. 总结
+	1. 支持动态配置
+	2. 支持多种通用网关能力
+	3. 支持多种网络协议
+	4. 单master、多worker架构
+	5. 对外提供一个ip端口
+	6. 支持http服务和反向代理的高性能网关服务
+
+示例
+```
+# Frontend Nginx配置
+
+server {
+
+    listen 80;
+
+    server_name localhost;
+
+    root /usr/share/nginx/html;
+
+    index index.html;
+
+  
+
+    # 前端路由支持
+
+    location / {
+
+        try_files $uri $uri/ /index.html;
+
+    }
+
+  
+
+    # API代理到后端
+
+    location /api/ {
+
+        proxy_pass http://backend:8080/;
+
+        proxy_set_header Host $host;
+
+        proxy_set_header X-Real-IP $remote_addr;
+
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+    }
+
+  
+
+    # 静态资源缓存
+
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$ {
+
+        expires 1y;
+
+        add_header Cache-Control "public, immutable";
+
+    }
+
+}
+```
+
 代理用于开发时解决跨域，将前端请求转发到后端。
 ```
 import { defineConfig } from 'vite'
