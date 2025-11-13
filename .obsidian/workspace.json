@@ -11,17 +11,14 @@
             "id": "7e5d3bc8d6422838",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "每日总结/未命名.canvas",
-                "viewState": {
-                  "x": -53.030954986430274,
-                  "y": -93.82694146926784,
-                  "zoom": -0.5555555555555555
-                }
+                "file": "每日总结/Nginx.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Nginx"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日总结/未命名.canvas",
+                "file": "每日总结/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "Nginx 的反向链接列表"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日总结/未命名.canvas",
+                "file": "每日总结/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Nginx 的出链列表"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日总结/未命名.canvas",
+                "file": "每日总结/Nginx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Nginx 的大纲"
             }
           },
           {
@@ -186,8 +183,9 @@
   },
   "active": "7e5d3bc8d6422838",
   "lastOpenFiles": [
-    "每日总结/Drawing 2025-11-13 16.18.17.excalidraw.md",
     "每日总结/未命名.canvas",
+    "每日总结/Nginx.md",
+    "每日总结/Drawing 2025-11-13 16.18.17.excalidraw.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
     "每日总结/未命名.base",
     "每日总结",
