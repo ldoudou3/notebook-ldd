@@ -11,14 +11,17 @@
             "id": "7e5d3bc8d6422838",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
-                "mode": "source",
-                "source": false
+                "file": "每日总结/未命名.canvas",
+                "viewState": {
+                  "x": -53.030954986430274,
+                  "y": -93.82694146926784,
+                  "zoom": -0.5555555555555555
+                }
               },
-              "icon": "lucide-file",
-              "title": "To Do List"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
+                "file": "每日总结/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "To Do List 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
+                "file": "每日总结/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "To Do List 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
+                "file": "每日总结/未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "To Do List 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -183,8 +186,12 @@
   },
   "active": "7e5d3bc8d6422838",
   "lastOpenFiles": [
-    "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
+    "每日总结/Drawing 2025-11-13 16.18.17.excalidraw.md",
+    "每日总结/未命名.canvas",
     "浦东配网/低压监测/前后端系统/To Do List.md",
+    "每日总结/未命名.base",
+    "每日总结",
+    "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
     "Excalidraw/Drawing 2025-11-12 13.57.43.excalidraw.md",
     "浦东配网/辅控/未命名.md",
     "浦东配网/低压监测/MQS队列消费者/test.md",
@@ -209,7 +216,6 @@
     "学习笔记",
     "浦东配网/低压监测/未命名.canvas",
     "浦东配网/低压监测",
-    "浦东配网/辅控",
-    "浦东配网"
+    "浦东配网/辅控"
   ]
 }
