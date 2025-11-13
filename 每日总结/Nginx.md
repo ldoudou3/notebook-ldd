@@ -1,5 +1,6 @@
 1. nginx的作用
-	1. 作为网关
+	1. 作为网关：
+		1. 
 代理用于开发时解决跨域，将前端请求转发到后端。
 ```
 import { defineConfig } from 'vite'
