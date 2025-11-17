@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-11-17.md",
+                "file": "每日总结/笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-17 的大纲"
+              "title": "笔记 的大纲"
             }
           },
           {
@@ -181,10 +181,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c2c12f54e2ee29d5",
+  "active": "a596269b53a20fac",
   "lastOpenFiles": [
-    "每日总结/笔记.md",
     "2025-11-17.md",
+    "每日总结/笔记.md",
     "每日总结/未命名.canvas",
     "浦东配网/低压监测/前后端系统/数据.md",
     "未命名.base",
