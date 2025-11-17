@@ -19,4 +19,4 @@
   ```
 
 - [x] 更换为SQweb脚手架
-· 技术栈： TypeScript + Vue 3
+	· 技术栈： TypeScript + Vue 3

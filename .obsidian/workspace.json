@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
-                "mode": "source",
+                "file": "每日总结/笔记.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do List"
+              "title": "笔记"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
+                "file": "2025-11-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "To Do List 的大纲"
+              "title": "2025-11-17 的大纲"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +181,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "a596269b53a20fac",
+  "active": "c2c12f54e2ee29d5",
   "lastOpenFiles": [
+    "每日总结/笔记.md",
+    "2025-11-17.md",
     "每日总结/未命名.canvas",
-    "每日总结/Nginx.md",
     "浦东配网/低压监测/前后端系统/数据.md",
+    "未命名.base",
     "浦东配网/低压监测/前后端系统/To Do List.md",
     "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
     "每日总结/Drawing 2025-11-13 16.18.17.excalidraw.md",
@@ -208,7 +211,6 @@
     "Excalidraw/Drawing 2025-11-11 17.38.31.excalidraw.md",
     "浦东配网/低压监测/docker-images-export/README.md",
     "学习笔记/mysql.md",
-    "未命名.base",
     "未命名 1.canvas",
     "未命名.canvas",
     "学习笔记",
