@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日总结/笔记.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "未命名"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日总结/笔记.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔记 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "545e4c2b64dc7e98",
   "lastOpenFiles": [
-    "每日总结/八股学习记录.md",
     "每日总结/笔记.md",
+    "每日总结/八股学习记录.md",
     "浦东配网/低压监测/MQS队列消费者/未命名.md",
     "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
     "浦东配网/低压监测/前后端系统/数据.md",
