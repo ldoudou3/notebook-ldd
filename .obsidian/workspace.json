@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6f6f1677b2f5c4e3",
+    "id": "4e923f9e3dfb8e65",
     "type": "split",
     "children": [
       {
-        "id": "664ff21e661202d0",
+        "id": "52f9db3662d8f397",
         "type": "tabs",
         "children": [
           {
-            "id": "bff4b761e52cc479",
+            "id": "444b98a7e3bd4518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+                "file": "每日总结/八股学习记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发文档"
+              "title": "八股学习记录"
             }
           }
         ]
@@ -27,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "22d9846ebea5c9d3",
+    "id": "7a34a35ba4a7ebf9",
     "type": "split",
     "children": [
       {
-        "id": "fbf2f2bad8acdae7",
+        "id": "012067746a406736",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c12f54e2ee29d5",
+            "id": "30d412ded39d3de0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "7b5a615310e8c15d",
+            "id": "f01901ca626f8886",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "aeaae178ee4c7164",
+            "id": "588ba7c462f09e2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,51 +78,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "049f2a25343b3543",
+    "id": "194443739e3198cd",
     "type": "split",
     "children": [
       {
-        "id": "7c986ab7f8f19077",
+        "id": "b4750ccc0a8d1f61",
         "type": "tabs",
         "children": [
           {
-            "id": "f4f546b0f3c0e230",
+            "id": "e6e561731dae0491",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "To Do List 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "45d12d6bbf66774a",
+            "id": "029eba13781bf624",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "To Do List 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "7372bb189dbb50fc",
+            "id": "2261764d33184e54",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +136,22 @@
             }
           },
           {
-            "id": "443d2b417d0c2f84",
+            "id": "721aa1ad0bd255b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+                "file": "每日总结/八股学习记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发文档 的大纲"
+              "title": "八股学习记录 的大纲"
             }
           },
           {
-            "id": "ce50326af1bec793",
+            "id": "8825cecc420d596b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,58 +165,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bff4b761e52cc479",
+  "active": "444b98a7e3bd4518",
   "lastOpenFiles": [
-    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
-    "每日总结/笔记.md",
-    "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/MQS队列消费者/开发文档.md",
-    "浦东配网/低压监测/MQS队列消费者/字段说明.txt",
+    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
+    "浦东配网/低压监测/MQS队列消费者/未命名.md",
+    "每日总结/笔记.md",
     "每日总结/八股学习记录.md",
-    "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
+    "test.md",
+    "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
-    "conflict-files-obsidian-git.md",
-    "2025-11-17.md",
-    "每日总结/未命名.canvas",
-    "未命名.base",
-    "每日总结/Drawing 2025-11-13 16.18.17.excalidraw.md",
-    "每日总结/未命名.base",
-    "每日总结",
-    "Excalidraw/Drawing 2025-11-12 13.57.43.excalidraw.md",
+    "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
     "浦东配网/辅控/未命名.md",
-    "浦东配网/低压监测/MQS队列消费者/test.md",
-    "Excalidraw",
-    "浦东配网/低压监测/MQS队列消费者",
     "浦东配网/低压监测/前后端系统",
+    "浦东配网/低压监测/MQS队列消费者",
+    "浦东配网/辅控",
     "浦东配网/低压监测",
-    "浦东配网/低压监测/MQS消息队列消费者服务.md",
-    "学习笔记/nginx.md",
-    "学习笔记/docker.md",
-    "浦东配网/低压监测/待办事项：.md",
-    "浦东配网/低压监测/低压监测系统架构.md",
-    "浦东配网/低压监测/图表1.md",
-    "Pasted image 20251111163929.png",
-    "Excalidraw/Drawing 2025-11-11 17.38.31.excalidraw.md",
-    "浦东配网/低压监测/docker-images-export/README.md",
-    "学习笔记/mysql.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "学习笔记",
-    "浦东配网/低压监测/未命名.canvas",
-    "浦东配网/低压监测"
+    "浦东配网",
+    "每日总结",
+    "未命名.base"
   ]
 }
