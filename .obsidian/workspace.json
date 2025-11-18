@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a82801e05ffa07af",
+        "id": "664ff21e661202d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a596269b53a20fac",
+            "id": "bff4b761e52cc479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日总结/笔记.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "笔记"
-            }
-          },
-          {
-            "id": "545e4c2b64dc7e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "浦东配网/低压监测/前后端系统/数据.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据"
+              "title": "开发文档"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/数据.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据 的大纲"
+              "title": "开发文档 的大纲"
             }
           },
           {
@@ -195,13 +180,15 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "545e4c2b64dc7e98",
+  "active": "bff4b761e52cc479",
   "lastOpenFiles": [
-    "浦东配网/低压监测/MQS队列消费者/未命名.md",
+    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
     "每日总结/笔记.md",
+    "浦东配网/低压监测/前后端系统/数据.md",
+    "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+    "浦东配网/低压监测/MQS队列消费者/字段说明.txt",
     "每日总结/八股学习记录.md",
     "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
-    "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
     "conflict-files-obsidian-git.md",
     "2025-11-17.md",
@@ -231,7 +218,6 @@
     "未命名.canvas",
     "学习笔记",
     "浦东配网/低压监测/未命名.canvas",
-    "浦东配网/低压监测",
-    "浦东配网/辅控"
+    "浦东配网/低压监测"
   ]
 }
