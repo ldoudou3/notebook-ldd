@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/字段说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发文档"
+              "title": "字段说明"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/字段说明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发文档 的大纲"
+              "title": "字段说明 的大纲"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "bff4b761e52cc479",
   "lastOpenFiles": [
-    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
     "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
     "每日总结/笔记.md",
     "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/MQS队列消费者/字段说明.txt",
