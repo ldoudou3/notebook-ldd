@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f4b35e140e884622",
+  "active": "443d2b417d0c2f84",
   "lastOpenFiles": [
     "每日总结/八股学习记录.md",
     "巴州知识库/巴州知识库系统部署说明文档.md",
