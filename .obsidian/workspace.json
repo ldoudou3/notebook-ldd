@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "巴州知识库/巴州知识库系统部署说明文档.md",
+                "file": "结算管理/知识串联.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "巴州知识库系统部署说明文档"
+              "title": "知识串联"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巴州知识库/巴州知识库系统部署说明文档.md",
+                "file": "结算管理/知识串联.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "巴州知识库系统部署说明文档 的大纲"
+              "title": "知识串联 的大纲"
             }
           },
           {
@@ -180,10 +180,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "443d2b417d0c2f84",
+  "active": "c2c12f54e2ee29d5",
   "lastOpenFiles": [
-    "每日总结/八股学习记录.md",
+    "结算管理/未命名.canvas",
+    "结算管理/知识串联.md",
     "巴州知识库/巴州知识库系统部署说明文档.md",
+    "结算管理",
+    "每日总结/八股学习记录.md",
     "巴州知识库",
     "每日总结/笔记.md",
     "浦东配网/低压监测/前后端系统/开发文档.md",
@@ -219,7 +222,6 @@
     "学习笔记/mysql.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "学习笔记",
     "浦东配网/低压监测/未命名.canvas"
   ]
 }
