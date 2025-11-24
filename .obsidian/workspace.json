@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "结算管理/知识串联.md",
+                "file": "每日总结/八股学习记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识串联"
+              "title": "八股学习记录"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "结算管理/知识串联.md",
+                "file": "每日总结/八股学习记录.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知识串联 的大纲"
+              "title": "八股学习记录 的大纲"
             }
           },
           {
@@ -180,20 +180,21 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c2c12f54e2ee29d5",
+  "active": "f4b35e140e884622",
   "lastOpenFiles": [
-    "结算管理/未命名.canvas",
-    "结算管理/知识串联.md",
-    "巴州知识库/巴州知识库系统部署说明文档.md",
-    "结算管理",
+    "结算管理/相关知识梳理.md",
     "每日总结/八股学习记录.md",
+    "浦东配网/辅控/未命名.md",
+    "浦东配网/低压监测/前后端系统/数据.md",
+    "浦东配网/低压监测/前后端系统/开发文档.md",
+    "巴州知识库/巴州知识库系统部署说明文档.md",
+    "浦东配网/低压监测/MQS队列消费者/开发文档.md",
+    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
+    "结算管理/未命名.canvas",
+    "结算管理",
     "巴州知识库",
     "每日总结/笔记.md",
-    "浦东配网/低压监测/前后端系统/开发文档.md",
-    "浦东配网/低压监测/MQS队列消费者/开发文档.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
-    "浦东配网/低压监测/前后端系统/数据.md",
-    "浦东配网/低压监测/MQS队列消费者/字段说明.md",
     "conflict-files-obsidian-git.md",
     "浦东配网/低压监测/MQS队列消费者/字段说明.txt",
     "浦东配网/低压监测/MQS队列消费者/Drawing 2025-11-12 13.56.31.excalidraw.md",
@@ -204,7 +205,6 @@
     "每日总结/未命名.base",
     "每日总结",
     "Excalidraw/Drawing 2025-11-12 13.57.43.excalidraw.md",
-    "浦东配网/辅控/未命名.md",
     "浦东配网/低压监测/MQS队列消费者/test.md",
     "Excalidraw",
     "浦东配网/低压监测/MQS队列消费者",
