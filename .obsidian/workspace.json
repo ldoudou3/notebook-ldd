@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "巴州知识库/架构.md",
+                "file": "巴州知识库/巴州知识库系统部署说明文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "架构"
+              "title": "巴州知识库系统部署说明文档"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巴州知识库/架构.md",
+                "file": "巴州知识库/巴州知识库系统部署说明文档.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "架构 的大纲"
+              "title": "巴州知识库系统部署说明文档 的大纲"
             }
           },
           {
@@ -182,9 +182,9 @@
   },
   "active": "59164decb75261ec",
   "lastOpenFiles": [
+    "巴州知识库/架构.md",
     "images/Pasted image 20251125161002.png",
     "images",
-    "巴州知识库/架构.md",
     "巴州知识库/巴州知识库系统部署说明文档.md",
     "Pasted image 20251125140801.png",
     "Pasted image 20251125140824.png",
