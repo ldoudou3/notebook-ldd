@@ -1,1 +1,5 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#a85cf5",
+  "textFontFamily": "MS Reference Sans Serif"
+}
