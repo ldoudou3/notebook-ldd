@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "#a85cf5",
-  "textFontFamily": "MS Reference Sans Serif"
+  "textFontFamily": "Comic Sans MS",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "DejaVu Sans Mono"
 }
