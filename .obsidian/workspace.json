@@ -39,12 +39,14 @@
             "id": "9db91673f117088c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "服务器账户密码一览表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "服务器账户密码一览表"
             }
           }
         ],
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "服务器账户密码一览表.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "服务器账户密码一览表 的大纲"
             }
           },
           {
