@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/前后端系统/开发文档.md",
+                "file": "每日总结/学习记录.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发文档 的大纲"
+              "title": "学习记录 的大纲"
             }
           },
           {
@@ -237,8 +237,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "1655c3bbed87a9f3",
+  "active": "a6fb8289a3f9f96e",
   "lastOpenFiles": [
+    "浦东配网/低压监测/前后端系统/开发文档.md",
     "每日总结/学习记录.md",
     "巴州知识库/部署.md",
     "服务器账户密码一览表.md",
@@ -247,7 +248,6 @@
     "巴州知识库/架构.md",
     "巴州知识库/代码架构.md",
     "巴州知识库/巴州知识库系统背景.md",
-    "浦东配网/低压监测/前后端系统/开发文档.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
     "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/MQS队列消费者/一些系统信息.md",
