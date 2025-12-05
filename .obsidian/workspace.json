@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务器账户密码一览表.md",
+                "file": "巴州知识库/部署.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "服务器账户密码一览表 的大纲"
+              "title": "部署 的大纲"
             }
           },
           {
@@ -265,13 +265,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f8a09f3a28a73b1a",
+  "active": "c1892c1daf65306b",
   "lastOpenFiles": [
+    "服务器账户密码一览表.md",
     "巴州知识库/部署.md",
     "巴州知识库/巴州知识库系统背景.md",
     "巴州知识库/架构.md",
     "巴州知识库/代码细读.md",
-    "服务器账户密码一览表.md",
     "每日总结/操作学习笔记.md",
     "浦东配网/低压监测/前后端系统/开发文档.md",
     "浦东配网/低压监测/前后端系统/数据.md",
