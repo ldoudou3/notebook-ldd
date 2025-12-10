@@ -105,8 +105,7 @@
               "title": "开发文档"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巴州知识库/代码细读.md",
+                "file": "巴州知识库/部署.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码细读 的大纲"
+              "title": "部署 的大纲"
             }
           },
           {
@@ -265,10 +264,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "a6fb8289a3f9f96e",
+  "active": "af39dfe29b7ee3db",
   "lastOpenFiles": [
-    "巴州知识库/部署.md",
     "巴州知识库/代码细读.md",
+    "巴州知识库/部署.md",
     "浦东配网/低压监测/前后端系统/开发文档.md",
     "每日总结/操作学习笔记.md",
     "服务器账户密码一览表.md",
