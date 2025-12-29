@@ -67,12 +67,14 @@
             "id": "ce44ea34d62336b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251125161002.png"
+                "file": "服务器账户密码一览表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251125161002"
+              "icon": "lucide-file",
+              "title": "服务器账户密码一览表"
             }
           },
           {
@@ -211,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巴州知识库/项目汇报记录.md",
+                "file": "服务器账户密码一览表.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目汇报记录 的大纲"
+              "title": "服务器账户密码一览表 的大纲"
             }
           },
           {
@@ -249,20 +251,22 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c2c12f54e2ee29d5",
+  "active": "ce44ea34d62336b6",
   "lastOpenFiles": [
+    "浦东配网/验收历程.md",
+    "每日总结/操作学习笔记.md",
+    "每日总结/20251215 低压监测项目总结.md",
+    "每日总结/月报学习.md",
+    "每日总结/学习记录.md",
+    "结算管理/相关知识梳理.md",
+    "巴州知识库/项目汇报记录.md",
     "images/Pasted image 20251125161002.png",
     "巴州知识库/架构.md",
     "巴州知识库/代码细读.md",
     "巴州知识库/部署.md",
     "巴州知识库/巴州知识库系统背景.md",
     "Pasted image 20251229150804.png",
-    "每日总结/20251215 低压监测项目总结.md",
-    "巴州知识库/项目汇报记录.md",
     "浦东配网/低压监测/前后端系统/开发文档.md",
-    "每日总结/学习记录.md",
-    "每日总结/操作学习笔记.md",
-    "每日总结/月报学习.md",
     "Pasted image 20251219203101.png",
     "Pasted image 20251219202959.png",
     "Pasted image 20251219202957.png",
@@ -274,16 +278,13 @@
     "服务器账户密码一览表.md",
     "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/系统架构.md",
-    "浦东配网/验收历程.md",
     "浦东配网/低压监测/MQS队列消费者/键代码笔记.md",
     "浦东配网/低压监测/MQS队列消费者/一些系统信息.md",
     "浦东配网/低压监测/前后端系统/To Do List.md",
     "images/Pasted image 20251128200315.png",
     "images/Pasted image 20251128200024.png",
-    "images/Pasted image 20251128195853.png",
     "每日总结/未命名",
     "images",
-    "结算管理/相关知识梳理.md",
     "浦东配网/辅控/未命名.md",
     "结算管理/未命名.canvas",
     "结算管理",
