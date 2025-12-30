@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日总结/操作学习笔记.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作学习笔记"
+              "title": "开发文档"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日总结/操作学习笔记.md",
+                "file": "浦东配网/低压监测/MQS队列消费者/开发文档.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "操作学习笔记 的大纲"
+              "title": "开发文档 的大纲"
             }
           },
           {
@@ -253,9 +253,9 @@
   },
   "active": "ce44ea34d62336b6",
   "lastOpenFiles": [
+    "每日总结/操作学习笔记.md",
     "服务器账户密码一览表.md",
     "浦东配网/验收历程.md",
-    "每日总结/操作学习笔记.md",
     "每日总结/20251215 低压监测项目总结.md",
     "每日总结/月报学习.md",
     "每日总结/学习记录.md",
