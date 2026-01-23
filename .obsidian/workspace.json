@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浦东配网/低压监测/验收后修改.md",
+                "file": "浦东配网/低压监测/前后端系统/数据.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "验收后修改 的大纲"
+              "title": "数据 的大纲"
             }
           },
           {
@@ -209,10 +209,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9305d7467d3a82c8",
+  "active": "fda7c920c63e930e",
   "lastOpenFiles": [
-    "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/验收后修改.md",
+    "浦东配网/低压监测/前后端系统/数据.md",
     "浦东配网/低压监测/字段说明.md",
     "每日总结/操作学习笔记.md",
     "每日总结/月报学习.md",
