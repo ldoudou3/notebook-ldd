@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巴州知识库/部署.md",
+                "file": "浦东配网/低压监测/验收后修改.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "部署 的大纲"
+              "title": "验收后修改 的大纲"
             }
           },
           {
@@ -237,11 +237,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "318d38a16c9c2f88",
+  "active": "9305d7467d3a82c8",
   "lastOpenFiles": [
+    "巴州知识库/部署.md",
     "巴州知识库/架构.md",
     "巴州知识库/代码细读.md",
-    "巴州知识库/部署.md",
     "巴州知识库/巴州知识库系统背景.md",
     "服务器账户密码一览表.md",
     "浦东配网/低压监测/验收后修改.md",
