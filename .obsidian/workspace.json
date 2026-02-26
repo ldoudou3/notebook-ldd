@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "服务器账户密码一览表"
             }
+          },
+          {
+            "id": "f9b9e5173ea2a915",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务器账户密码一览表.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "服务器账户密码一览表 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -223,7 +234,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6619b462a6008a3",
+  "active": "f9b9e5173ea2a915",
   "lastOpenFiles": [
     "每日工作/20260206.md",
     "每日总结/20251215 低压监测项目总结.md",
